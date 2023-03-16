@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/my-app/static/js/main.42371ee7.js",
-    "index.html": "/my-app/index.html",
-    "main.42371ee7.js.map": "/my-app/static/js/main.42371ee7.js.map"
+    "main.js": "/ghpages-deploy/static/js/main.42371ee7.js",
+    "index.html": "/ghpages-deploy/index.html",
+    "main.42371ee7.js.map": "/ghpages-deploy/static/js/main.42371ee7.js.map"
   },
   "entrypoints": [
     "static/js/main.42371ee7.js"
